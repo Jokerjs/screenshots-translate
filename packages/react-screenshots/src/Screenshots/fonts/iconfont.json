@@ -1,0 +1,16 @@
+{
+  "id": "5024025",
+  "name": "截图",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23359065",
+      "name": "翻译",
+      "font_class": "fanyi",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    }
+  ]
+}
